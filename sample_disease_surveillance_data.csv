@@ -1,0 +1,101 @@
+case_id,report_date,location,disease_name,symptoms,diagnosis_status,patient_age,patient_sex,health_facility,entry_method
+D001,2025-05-22,Egba-South,Malaria,"fever, headache, vomiting, chills",Ruled Out,72,Male,Community Clinic,Mobile App
+D002,2025-05-20,Shaki-West,COVID-19,"fever, dry cough, tiredness",Confirmed,51,Female,Community Clinic,Web Portal
+D003,2025-05-24,Egba-South,COVID-19,"dry cough, tiredness",Confirmed,39,Female,Community Clinic,Web Portal
+D004,2025-06-01,Ibadan-North,Lassa Fever,"fever, abdominal pain, bleeding, fatigue",Confirmed,50,Female,UCH App,Mobile App
+D005,2025-05-26,Ogbomoso-Central,Malaria,"vomiting, headache, fever",Suspected,37,Female,Community Clinic,SMS
+D006,2025-05-16,Iseyin-East,Lassa Fever,"fatigue, abdominal pain, bleeding, fever",Suspected,51,Female,UCH App,Web Portal
+D007,2025-05-23,Shaki-West,Typhoid,"weakness, high fever, constipation",Suspected,71,Female,Health Post,Mobile App
+D008,2025-05-08,Ogbomoso-Central,Typhoid,"high fever, constipation",Confirmed,37,Female,Community Clinic,IoT Sensor
+D009,2025-05-08,Egba-South,Cholera,"vomiting, dehydration",Confirmed,29,Female,Health Post,Mobile App
+D010,2025-05-30,Shaki-West,Cholera,"vomiting, diarrhea",Ruled Out,25,Male,UCH App,SMS
+D011,2025-05-16,Shaki-West,Cholera,"diarrhea, dehydration, vomiting, leg cramps",Suspected,54,Male,General Hospital,IoT Sensor
+D012,2025-05-07,Shaki-West,COVID-19,"fever, tiredness, dry cough",Ruled Out,37,Female,Health Post,Mobile App
+D013,2025-05-04,Iseyin-East,Cholera,"diarrhea, vomiting, leg cramps",Confirmed,71,Female,Health Post,Web Portal
+D014,2025-05-15,Iseyin-East,Typhoid,"high fever, stomach pain, weakness",Ruled Out,63,Female,UCH App,Web Portal
+D015,2025-05-12,Iseyin-East,Typhoid,"stomach pain, constipation, high fever, weakness",Confirmed,22,Male,UCH App,IoT Sensor
+D016,2025-06-02,Egba-South,Lassa Fever,"fever, abdominal pain",Ruled Out,49,Male,General Hospital,Web Portal
+D017,2025-05-15,Iseyin-East,COVID-19,"dry cough, fever, tiredness, loss of taste",Suspected,24,Female,UCH App,SMS
+D018,2025-05-05,Ogbomoso-Central,COVID-19,"fever, tiredness",Ruled Out,45,Male,General Hospital,SMS
+D019,2025-05-09,Oyo-East,Lassa Fever,"fever, abdominal pain",Confirmed,59,Male,General Hospital,IoT Sensor
+D020,2025-05-30,Ibadan-North,Lassa Fever,"fever, bleeding, abdominal pain, fatigue",Suspected,71,Male,UCH App,Mobile App
+D021,2025-05-23,Egba-South,Typhoid,"weakness, stomach pain, constipation, high fever",Confirmed,20,Male,Community Clinic,Mobile App
+D022,2025-05-25,Oyo-East,Malaria,"vomiting, fever, chills, headache",Suspected,63,Male,UCH App,SMS
+D023,2025-05-06,Ogbomoso-Central,Malaria,"vomiting, headache, chills, fever",Ruled Out,64,Male,Health Post,IoT Sensor
+D024,2025-05-24,Iseyin-East,COVID-19,"tiredness, loss of taste",Confirmed,79,Female,Community Clinic,IoT Sensor
+D025,2025-05-03,Iseyin-East,COVID-19,"fever, dry cough, loss of taste",Ruled Out,35,Male,Community Clinic,Mobile App
+D026,2025-05-30,Ogbomoso-Central,Malaria,"chills, fever, vomiting",Ruled Out,9,Female,UCH App,Mobile App
+D027,2025-05-27,Ogbomoso-Central,Malaria,"chills, headache",Ruled Out,77,Male,General Hospital,SMS
+D028,2025-05-08,Oyo-East,Typhoid,"constipation, stomach pain, high fever, weakness",Confirmed,7,Male,UCH App,SMS
+D029,2025-05-26,Ibadan-North,Typhoid,"constipation, high fever, stomach pain",Confirmed,67,Female,Health Post,Mobile App
+D030,2025-05-14,Egba-South,Typhoid,"constipation, stomach pain, high fever",Suspected,66,Male,UCH App,IoT Sensor
+D031,2025-05-18,Shaki-West,Lassa Fever,"bleeding, fever",Ruled Out,11,Male,General Hospital,Web Portal
+D032,2025-06-01,Shaki-West,COVID-19,"loss of taste, dry cough, fever",Ruled Out,36,Female,UCH App,SMS
+D033,2025-05-26,Shaki-West,COVID-19,"dry cough, tiredness, loss of taste",Confirmed,79,Male,UCH App,Web Portal
+D034,2025-06-02,Shaki-West,Lassa Fever,"fever, bleeding, abdominal pain, fatigue",Confirmed,23,Male,UCH App,IoT Sensor
+D035,2025-05-13,Shaki-West,Malaria,"vomiting, headache",Ruled Out,64,Male,Community Clinic,Mobile App
+D036,2025-05-04,Ibadan-North,Lassa Fever,"fever, abdominal pain",Ruled Out,70,Male,Community Clinic,Mobile App
+D037,2025-05-27,Oyo-East,Cholera,"leg cramps, diarrhea, vomiting, dehydration",Suspected,73,Female,Health Post,Mobile App
+D038,2025-05-17,Oyo-East,Cholera,"vomiting, leg cramps",Suspected,16,Female,General Hospital,IoT Sensor
+D039,2025-05-17,Shaki-West,COVID-19,"dry cough, fever, tiredness, loss of taste",Confirmed,64,Male,UCH App,IoT Sensor
+D040,2025-05-26,Oyo-East,Typhoid,"constipation, stomach pain, high fever, weakness",Confirmed,34,Male,Health Post,Mobile App
+D041,2025-06-02,Ibadan-North,Cholera,"diarrhea, vomiting, leg cramps",Confirmed,60,Female,Community Clinic,SMS
+D042,2025-05-25,Iseyin-East,Malaria,"vomiting, chills",Confirmed,53,Male,Community Clinic,IoT Sensor
+D043,2025-05-26,Iseyin-East,Malaria,"chills, fever",Confirmed,54,Male,General Hospital,SMS
+D044,2025-05-18,Ogbomoso-Central,COVID-19,"fever, dry cough",Suspected,7,Male,Health Post,IoT Sensor
+D045,2025-05-08,Iseyin-East,Lassa Fever,"fever, abdominal pain",Ruled Out,31,Female,Health Post,IoT Sensor
+D046,2025-05-06,Shaki-West,Typhoid,"weakness, high fever",Suspected,16,Female,UCH App,Web Portal
+D047,2025-05-17,Egba-South,Cholera,"dehydration, leg cramps, vomiting, diarrhea",Confirmed,41,Female,Community Clinic,IoT Sensor
+D048,2025-05-29,Oyo-East,COVID-19,"dry cough, fever, tiredness, loss of taste",Confirmed,50,Male,General Hospital,IoT Sensor
+D049,2025-05-12,Ogbomoso-Central,Cholera,"leg cramps, vomiting, diarrhea, dehydration",Suspected,71,Male,Health Post,Web Portal
+D050,2025-05-18,Shaki-West,Typhoid,"constipation, high fever",Suspected,1,Male,General Hospital,SMS
+D051,2025-05-27,Egba-South,Cholera,"leg cramps, diarrhea, dehydration, vomiting",Ruled Out,30,Male,General Hospital,Web Portal
+D052,2025-05-24,Ibadan-North,Cholera,"leg cramps, vomiting, diarrhea",Ruled Out,7,Female,UCH App,Web Portal
+D053,2025-05-21,Egba-South,Lassa Fever,"abdominal pain, fever, fatigue, bleeding",Confirmed,62,Male,Community Clinic,Web Portal
+D054,2025-06-02,Iseyin-East,Cholera,"vomiting, leg cramps, dehydration",Ruled Out,57,Female,UCH App,IoT Sensor
+D055,2025-05-07,Oyo-East,Lassa Fever,"fever, fatigue, bleeding",Confirmed,38,Female,UCH App,IoT Sensor
+D056,2025-05-08,Egba-South,Typhoid,"high fever, constipation, weakness",Confirmed,47,Female,General Hospital,SMS
+D057,2025-05-22,Iseyin-East,Malaria,"headache, vomiting, fever, chills",Suspected,41,Female,Community Clinic,Web Portal
+D058,2025-05-12,Shaki-West,COVID-19,"fever, tiredness, loss of taste",Suspected,77,Male,Community Clinic,SMS
+D059,2025-05-21,Ogbomoso-Central,Lassa Fever,"fatigue, abdominal pain, bleeding, fever",Confirmed,65,Female,Health Post,IoT Sensor
+D060,2025-05-04,Iseyin-East,Typhoid,"high fever, constipation, weakness",Confirmed,49,Male,UCH App,Web Portal
+D061,2025-05-07,Iseyin-East,Lassa Fever,"fatigue, fever",Ruled Out,9,Male,General Hospital,Mobile App
+D062,2025-05-23,Ibadan-North,Typhoid,"weakness, constipation, high fever, stomach pain",Suspected,28,Female,Health Post,IoT Sensor
+D063,2025-06-02,Iseyin-East,Malaria,"headache, chills, fever, vomiting",Suspected,14,Male,Health Post,Web Portal
+D064,2025-05-25,Ogbomoso-Central,Typhoid,"stomach pain, weakness, high fever, constipation",Confirmed,11,Female,Community Clinic,SMS
+D065,2025-05-28,Iseyin-East,Malaria,"chills, vomiting",Ruled Out,25,Female,Community Clinic,Web Portal
+D066,2025-05-27,Shaki-West,Cholera,"leg cramps, dehydration, diarrhea, vomiting",Confirmed,24,Male,Health Post,SMS
+D067,2025-05-04,Ogbomoso-Central,COVID-19,"tiredness, fever, dry cough, loss of taste",Ruled Out,78,Male,UCH App,Mobile App
+D068,2025-06-02,Shaki-West,Typhoid,"stomach pain, constipation, weakness",Ruled Out,15,Female,Health Post,Mobile App
+D069,2025-05-29,Oyo-East,Typhoid,"weakness, stomach pain",Confirmed,45,Female,Health Post,SMS
+D070,2025-06-01,Ibadan-North,COVID-19,"loss of taste, tiredness, fever",Ruled Out,34,Female,UCH App,Web Portal
+D071,2025-05-06,Iseyin-East,COVID-19,"tiredness, fever",Ruled Out,76,Male,Health Post,IoT Sensor
+D072,2025-06-02,Oyo-East,COVID-19,"tiredness, dry cough, loss of taste",Suspected,56,Female,Community Clinic,SMS
+D073,2025-05-30,Egba-South,Cholera,"dehydration, leg cramps, vomiting",Ruled Out,80,Male,Health Post,SMS
+D074,2025-05-17,Ogbomoso-Central,Typhoid,"stomach pain, weakness, high fever",Ruled Out,47,Male,UCH App,Web Portal
+D075,2025-05-27,Egba-South,Lassa Fever,"abdominal pain, fever, bleeding, fatigue",Suspected,72,Female,General Hospital,Web Portal
+D076,2025-05-03,Ogbomoso-Central,COVID-19,"dry cough, fever, loss of taste",Ruled Out,42,Female,Health Post,SMS
+D077,2025-05-07,Shaki-West,Cholera,"vomiting, leg cramps, dehydration",Ruled Out,24,Female,UCH App,Mobile App
+D078,2025-05-04,Ogbomoso-Central,COVID-19,"tiredness, loss of taste, dry cough",Suspected,30,Female,Community Clinic,Mobile App
+D079,2025-05-24,Ibadan-North,Typhoid,"stomach pain, weakness, constipation",Confirmed,36,Female,UCH App,Web Portal
+D080,2025-05-28,Iseyin-East,Typhoid,"high fever, stomach pain, constipation, weakness",Ruled Out,13,Female,Community Clinic,Mobile App
+D081,2025-05-08,Shaki-West,Malaria,"headache, chills, vomiting, fever",Confirmed,59,Female,General Hospital,SMS
+D082,2025-05-29,Egba-South,Malaria,"chills, headache, fever, vomiting",Ruled Out,19,Male,UCH App,IoT Sensor
+D083,2025-05-05,Ibadan-North,Cholera,"leg cramps, dehydration",Confirmed,51,Male,UCH App,IoT Sensor
+D084,2025-05-21,Shaki-West,Malaria,"fever, chills, vomiting, headache",Confirmed,76,Male,Community Clinic,Web Portal
+D085,2025-05-10,Shaki-West,COVID-19,"loss of taste, fever",Ruled Out,77,Male,Health Post,Mobile App
+D086,2025-05-13,Egba-South,Typhoid,"constipation, weakness",Suspected,66,Female,Community Clinic,Web Portal
+D087,2025-05-18,Iseyin-East,Lassa Fever,"abdominal pain, bleeding, fatigue, fever",Ruled Out,79,Female,General Hospital,Web Portal
+D088,2025-05-31,Egba-South,Lassa Fever,"fever, bleeding, fatigue",Confirmed,16,Female,Community Clinic,SMS
+D089,2025-05-11,Egba-South,Malaria,"headache, chills, fever",Confirmed,76,Female,General Hospital,SMS
+D090,2025-05-19,Ibadan-North,COVID-19,"loss of taste, fever",Confirmed,6,Female,UCH App,Web Portal
+D091,2025-05-30,Oyo-East,Lassa Fever,"bleeding, fatigue",Confirmed,23,Female,UCH App,SMS
+D092,2025-05-05,Shaki-West,Typhoid,"high fever, weakness, constipation",Ruled Out,75,Male,Health Post,Mobile App
+D093,2025-05-18,Ogbomoso-Central,Cholera,"dehydration, vomiting, leg cramps",Confirmed,55,Male,Community Clinic,IoT Sensor
+D094,2025-05-24,Oyo-East,Cholera,"vomiting, dehydration",Confirmed,80,Male,General Hospital,Mobile App
+D095,2025-05-14,Shaki-West,COVID-19,"fever, dry cough, tiredness, loss of taste",Ruled Out,60,Female,General Hospital,Mobile App
+D096,2025-05-06,Ibadan-North,Typhoid,"stomach pain, constipation",Confirmed,55,Female,Community Clinic,SMS
+D097,2025-05-26,Oyo-East,Malaria,"headache, vomiting, fever, chills",Suspected,16,Female,Health Post,Web Portal
+D098,2025-05-28,Shaki-West,Malaria,"vomiting, fever",Ruled Out,76,Female,General Hospital,IoT Sensor
+D099,2025-05-05,Oyo-East,COVID-19,"tiredness, dry cough, loss of taste",Confirmed,17,Female,Health Post,Web Portal
+D100,2025-05-04,Shaki-West,COVID-19,"tiredness, loss of taste",Confirmed,1,Female,General Hospital,IoT Sensor
